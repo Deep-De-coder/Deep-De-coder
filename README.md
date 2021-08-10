@@ -18,15 +18,6 @@
 - 😄 Pronouns: He/Him
 <br/>
 
-<a  href="https://github.com/Deep-De-coder"> 
-  
-<img alt="Deep-De-coder github stats" width="50%" src="https://github-readme-stats.vercel.app/api?username=Deep-De-coder&show_icons=true&count_private=true&hide_border=true&bg_color=50,e96205,904e99&title_color=fff&text_color=fff&icon_color=f2f2f2" href="https://github.com/Deep-De-coder" />
-<img alt="Top Langs" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deep-De-coder&layout=compact&count_private=true&&hide_border=true&bg_color=904e99&title_color=fff&text_color=fff&icon_color=f2f2f2&hide=jupyter%20notebook&langs_count=5" href="https://github.com/Deep-De-coder" />
-
-</a>
-
-## 🔥 Streak Stats
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Deep-De-coder&theme=great-gatsby&hide_border=true)](https://git.io/streak-stats)
  </div>
  
  ## 🛠️ My Skills
@@ -136,10 +127,22 @@
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
   &emsp;
     <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?logo=Jupyter&logoColor=white"></a>
- &emsp; 
+ &emsp;  
 </p>
 
- 
+<div align="center" width="50">
+<a  href="https://github.com/Deep-De-coder"> 
+  
+<img alt="Deep-De-coder github stats" width="50%" src="https://github-readme-stats.vercel.app/api?username=Deep-De-coder&show_icons=true&count_private=true&hide_border=true&bg_color=50,e96205,904e99&title_color=fff&text_color=fff&icon_color=f2f2f2" href="https://github.com/Deep-De-coder" />
+<img alt="Top Langs" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deep-De-coder&layout=compact&count_private=true&&hide_border=true&bg_color=904e99&title_color=fff&text_color=fff&icon_color=f2f2f2&hide=jupyter%20notebook&langs_count=5" href="https://github.com/Deep-De-coder" />
+
+</a>
+
+ ## 🔥 Streak Stats
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Deep-De-coder&theme=great-gatsby&hide_border=true)](https://git.io/streak-stats)
+
+</div>
+	
 <details>
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
