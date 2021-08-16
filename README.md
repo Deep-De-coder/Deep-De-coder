@@ -10,13 +10,13 @@
 ![](https://komarev.com/ghpvc/?username=Deep-De-coder&style=flat&color=orange&label=PROFILE+VIEWS)
 ![](https://visitor-badge.glitch.me/badge?page_id=Deep-De-coder&style=flat&color=orange&label=VISITORS)
 
-<br/>
 
-- ✨I’m currently working real life website
-- 🌱 I’m currently learning flask and kotlin Programming
-- 💬 Ask me about Backend devlopment and app development
-- 😄 Pronouns: He/Him
-<br/>
+
+<br/>✨I’m currently working real life website
+<br/>🌱 I’m currently learning flask and kotlin Programming
+<br/>💬 Ask me about Backend devlopment and app development
+<br/>😄 Pronouns: He/Him
+
 
  </div>
  
