@@ -4,7 +4,7 @@
 
 <div align="center" width="50">
 <a  href="https://github.com/Deep-De-coder"> 
-  <img src="https://github.com/Deep-De-coder/Deep-De-coder/blob/main/Git%20comp-working%20gif.gif?raw=true" href="https://github.com/Deep-De-coder" alt="GIF RocKs"width="550"/> 
+  <img src="https://github.com/Deep-De-coder/Deep-De-coder/blob/main/Git%20comp-working.gif?raw=true" href="https://github.com/Deep-De-coder" alt="GIF RocKs"width="550"/> 
 </a>
 
 ![](https://komarev.com/ghpvc/?username=Deep-De-coder&style=flat&color=orange&label=PROFILE+VIEWS)
