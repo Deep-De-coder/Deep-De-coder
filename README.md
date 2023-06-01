@@ -103,8 +103,12 @@
   &emsp;
   <a href="#">
   	<img alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white"/>
-  </a>
-&emsp; 
+  </a> 
+  &emsp; 
+  <a href="#">
+  	<img alt="Canva" src="https://img.shields.io/badge/Figma-%2300C4CC.svg?style=flat&logo=Figma&logoColor=white"/>
+  </a> 
+  &emsp; 
  </p>
 
  ### 👉 Software & Tools
