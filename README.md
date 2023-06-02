@@ -135,9 +135,9 @@
 
 </a>
 
- ## 🔥 Streak Stats
+<!--  ## 🔥 Streak Stats
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Deep-De-coder&theme=great-gatsby&hide_border=true)](https://git.io/streak-stats)
-
+ -->
 </div>
 	
 <details>
