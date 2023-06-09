@@ -140,12 +140,12 @@
  -->
 </div>
 	
-<details>
+<!-- <details>
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
    <a href="https://github.com/Deep-De-coder"><img alt="Deep's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Deep-De-coder&custom_title=Deep's%20Activity%20Graph&theme=react-dark" /></a>
   <br/>
-</details>  
+</details>   -->
  
  ## 🙋‍♀️ Let's Connect
 <p align="center">
