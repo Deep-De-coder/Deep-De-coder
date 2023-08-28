@@ -12,9 +12,9 @@
  -->
 
 
-<br/>✨I’m currently working on a real life website
-<br/>🌱 I’m currently learning flask and kotlin Programming
-<br/>💬 Ask me about Backend devlopment and app development
+
+<br/>🌱 I’m currently learning Flask and ML implementation
+<br/>💬 Ask me about Backend development and app development
 <br/>😄 Pronouns: He/Him
 
 
