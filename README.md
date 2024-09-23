@@ -13,7 +13,7 @@
 
 
 
-<br/>🌱 I’m currently learning Flask and ML implementation
+<br/>🌱 I’m currently learning AI and MR implementation
 <br/>💬 Ask me about Backend development and app development
 <br/>😄 Pronouns: He/Him
 
