@@ -18,7 +18,7 @@
 class Deep:
     name       = "Deep Shahane"
     role       = ["Research Assistant", "AI/ML Engineer", "Backend Developer"]
-    location   = "India 🇮🇳"
+    location   = "United States, USA"
     research   = ["Computer Vision", "VLMs", "Mixed Reality (MR)", "SLAM"]
     learning   = ["LLM Fine-tuning", "VLA Systems", "Agentic AI Pipelines"]
     hobby      = "Building mobile apps with Flutter 📱"
