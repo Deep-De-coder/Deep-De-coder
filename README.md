@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Deep%20Shahane&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Research%20Assistant%20%7C%20AI%20%26%20Backend%20Engineer&descAlignY=60&descSize=18&animation=fadeIn" width="100%"/>
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Deep%20Shahane&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Research%20Assistant%20%7C%20AI%20%26%20Backend%20Engineer&descAlignY=60&descSize=18&animation=fadeIn)
 
 </div>
 
@@ -18,8 +18,8 @@
 class Deep:
     name       = "Deep Shahane"
     role       = ["Research Assistant", "Backend Developer", "AI Explorer"]
-    location   = "United States, USA"
-    learning   = ["AI/ML", "Computer Vision", "System Design"]
+    location   = "India 🇮🇳"
+    learning   = ["AI/ML", "Mixed Reality (MR)", "System Design"]
     hobbies    = ["Mobile Dev with Flutter", "UI/UX Tinkering", "Breaking things to fix them"]
     open_to    = "Full-time roles in AI, Backend, or Full-Stack Engineering"
 
@@ -80,7 +80,7 @@ class Deep:
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Deep-De-coder&hide_border=true&background=0d0d1a&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=888888" width="500"/>
+<img src="https://streak-stats.demolab.com?user=Deep-De-coder&hide_border=true&background=0d0d1a&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=888888" width="500"/>
 
 </div>
 
@@ -111,7 +111,7 @@ class Deep:
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" width="100%"/>
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer)
 
 *"The best code is the one that solves real problems."*
 
